@@ -1,9 +1,29 @@
 ﻿{
     "campaign":  "Dragonlance - Shadow of the Dragon Queen",
     "generatedBy":  "Publish-Dragonlance.ps1",
-    "generatedAt":  "2026-09-20T18:57:52.1010593+10:00",
+    "generatedAt":  "2026-09-20T20:12:30.7104933+10:00",
     "files":  [
+                  "Dragonlance.md",
+                  "Sessions/1. 10th July 2026 - It begins.md",
+                  "Sessions/2. 07th August 2026 - Back in Vogler.md",
+                  "Sessions/3. 14th August 2026 - The Kingfisher Festival Begins.md",
+                  "Sessions/4. 21st August 2026 - 4.md",
+                  "Sessions/5. 28th August 2026 - 5.md",
+                  "Sessions/6. 04th September 2026 - 6.md",
                   "Sessions/7. 11th August 2026 - 7.md",
-                  "Sessions/8. 18th September 2026 - 8.md"
+                  "Sessions/8. 18th September 2026 - 8.md",
+                  "Sessions/Session 0 Guide.md",
+                  "World/Ansalon/Estwilde/Estwilde.md",
+                  "World/Ansalon/Kalaman Region.md",
+                  "World/Ansalon/Khur/Khur.md",
+                  "World/Ansalon/Northern Wastes/Northern Wastes.md",
+                  "World/Ansalon/Solamnia/Solamnia.md",
+                  "World/Ansalon/Vogler.md",
+                  "z_Assets/dragonlance-img/000-00-001-becklin-letter.webp",
+                  "z_Assets/dragonlance-img/007-00-007-fallen-piece.webp",
+                  "z_Assets/dragonlance-img/008-00-008-letters.webp",
+                  "z_Assets/dragonlance-img/009-00-009-rosamund-letter.webp",
+                  "z_Assets/dragonlance-img/037-map-3-01-vogler.webp",
+                  "z_Assets/dragonlance-img/038-map-3-01-vogler-player.webp"
               ]
 }
