@@ -1,9 +1,21 @@
 ﻿{
     "campaign":  "Dragonlance - Shadow of the Dragon Queen",
     "generatedBy":  "Publish-Dragonlance.ps1",
-    "generatedAt":  "2026-09-20T20:19:34.4171842+10:00",
+    "generatedAt":  "2026-09-20T20:32:07.0641117+10:00",
     "files":  [
-                  "Dragonlance.md",
+                  "People/NPCs/Ser Aldric Thornfield.md",
+                  "Places/Estwilde/Estwilde.md",
+                  "Places/Kalaman Region.md",
+                  "Places/Khur/Khur.md",
+                  "Places/Northern Wastes/Northern Wastes.md",
+                  "Places/Solamnia/Solamnia.md",
+                  "Places/Vogler.md",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/000-00-001-becklin-letter.webp",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/007-00-007-fallen-piece.webp",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/008-00-008-letters.webp",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/009-00-009-rosamund-letter.webp",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/037-map-3-01-vogler.webp",
+                  "Player Resources/Assets/z_Assets/dragonlance-img/038-map-3-01-vogler-player.webp",
                   "Sessions/1. 10th July 2026 - It begins.md",
                   "Sessions/2. 07th August 2026 - Back in Vogler.md",
                   "Sessions/3. 14th August 2026 - The Kingfisher Festival Begins.md",
@@ -13,17 +25,6 @@
                   "Sessions/7. 11th August 2026 - 7.md",
                   "Sessions/8. 18th September 2026 - 8.md",
                   "Sessions/Session 0 Guide.md",
-                  "World/Ansalon/Estwilde/Estwilde.md",
-                  "World/Ansalon/Kalaman Region.md",
-                  "World/Ansalon/Khur/Khur.md",
-                  "World/Ansalon/Northern Wastes/Northern Wastes.md",
-                  "World/Ansalon/Solamnia/Solamnia.md",
-                  "World/Ansalon/Vogler.md",
-                  "z_Assets/dragonlance-img/000-00-001-becklin-letter.webp",
-                  "z_Assets/dragonlance-img/007-00-007-fallen-piece.webp",
-                  "z_Assets/dragonlance-img/008-00-008-letters.webp",
-                  "z_Assets/dragonlance-img/009-00-009-rosamund-letter.webp",
-                  "z_Assets/dragonlance-img/037-map-3-01-vogler.webp",
-                  "z_Assets/dragonlance-img/038-map-3-01-vogler-player.webp"
+                  "Start Here/Dragonlance.md"
               ]
 }
