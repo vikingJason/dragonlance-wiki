@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👨🏻‍💻 GM in Flux! 😈",
+    pageTitle: "Dragonlance — Shadow of the Dragon Queen",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "vikingjason.github.io/dragonlance-wiki",
     ignorePatterns: ["private", "templates", ".obsidian", "**/private", "**/drafts", "_private/**", "_drafts", "**/_private/**", "**/node_modules/**", "**/dist/**"],
     defaultDateType: "created",
     generateSocialImages: false,
